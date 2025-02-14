@@ -34,3 +34,4 @@ npm run dev
 5. Dark Mode & Undo/Redo: Enhances usability with theme switching and layout versioning.
 ## Project Demo
 ### Deployed Link - https://calcforge.netlify.app/
+![Preview](https://github.com/user-attachments/assets/225395ca-5790-4309-8c2b-1e830ce0469c)
