@@ -1,15 +1,15 @@
 # CalcForge - A Calculator Builder
 The Calculator Builder is an interactive React-based web application that allows users to create a custom calculator layout using drag-and-drop functionality. Users can add, remove, and rearrange number buttons, operations, and the result display to personalize their calculator. The app is built using React, Zustand for state management, and Tailwind CSS for styling, ensuring a seamless and responsive user experience.
 ## Features
-✅ Drag & Drop Components – Users can dynamically add, remove, and reposition calculator buttons.
-✅ Predefined Components – Includes number buttons (0-9), arithmetic operators (+, -, *, /), and a display screen.
-✅ Custom Layout – Users have full control over how the buttons are arranged.
-✅ Functional Calculation Logic – Performs calculations based on user input and displays the results.
-✅ State Management with Zustand – Ensures smooth data handling for user interactions.
-✅ Tailwind CSS Styling – Provides a clean, modern, and responsive UI.
-✅ Dark Mode Toggle – Allows users to switch between light and dark themes.
-✅ Persistence with Local Storage – Saves the calculator layout for future use.
-✅ Undo/Redo Functionality – Enables users to revert or redo layout changes.
+1. Drag & Drop Components – Users can dynamically add, remove, and reposition calculator buttons.
+2. Predefined Components – Includes number buttons (0-9), arithmetic operators (+, -, *, /), and a display screen.
+3. Custom Layout – Users have full control over how the buttons are arranged.
+4. Functional Calculation Logic – Performs calculations based on user input and displays the results.
+5. State Management with Zustand – Ensures smooth data handling for user interactions.
+6. Tailwind CSS Styling – Provides a clean, modern, and responsive UI.
+7. Dark Mode Toggle – Allows users to switch between light and dark themes.
+8. Persistence with Local Storage – Saves the calculator layout for future use.
+9. Undo/Redo Functionality – Enables users to revert or redo layout changes.
 ## Setup and Installation
 1. `Clone` the Repository
 ``` bash
